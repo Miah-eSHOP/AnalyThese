@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+seaborn
+matplotlib
+scipy
+openpyxl
+statsmodels.api
+scikit-learn
+io
+base64
